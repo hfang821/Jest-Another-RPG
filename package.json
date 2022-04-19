@@ -1,0 +1,30 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfang821/Jest-Another-RPG.git"
+  },
+  "keywords": [
+    "potion",
+    "player",
+    "enemy",
+    "game",
+    "jest",
+    "rpg"
+  ],
+  "author": "Kevin Fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfang821/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/hfang821/Jest-Another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
